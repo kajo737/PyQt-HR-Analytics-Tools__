@@ -34,8 +34,8 @@ Pastikan Python 3.10+ sudah terinstal. Buka terminal/CMD, lalu jalankan perintah
 
 ```bash
 # 1. Clone repository & masuk ke folder
-git clone [https://github.com/USERNAME_ANDA/NAMA_REPO.git](https://github.com/USERNAME_ANDA/NAMA_REPO.git)
-cd NAMA_REPO
+git clone [https://github.com/kajo737/NAMA_REPO.git](https://github.com/kajo737/PyQt-HR-Analytics-Tools__.git)
+cd PyQt-HR-Analytics-Tools__
 
 # 2. Install semua library (hanya sekali di awal)
 pip install -r requirements.txt
