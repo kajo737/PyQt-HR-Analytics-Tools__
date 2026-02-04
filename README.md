@@ -41,4 +41,4 @@ cd PyQt-HR-Analytics-Tools__
 pip install -r requirements.txt
 
 # 3. Jalankan aplikasi
-python aplikasi_final_fix.py
+python Aplikasi_HR.py
