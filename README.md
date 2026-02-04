@@ -18,6 +18,20 @@
 4.  **Cek Lembur:** Modul *live preview* untuk validasi jam lembur.
 
 ---
+## Tangkapan Layar (Screenshots)
+
+### 1. Menu Utama (Dashboard)
+Navigasi utama untuk memilih modul analisis.
+![Menu Utama](assets/HU.png)  <-- Ini yang memanggil gambar
+
+### 2. Modul 1: Analisis Absensi Plant
+...
+![Modul Analisis](assets/M1.png)
+
+### 3. Modul 2: Pemeriksa Data Lembur
+...
+![Modul Analisis](assets/M2.png)
+
 
 ## Cara Menggunakan (Quick Start)
 
